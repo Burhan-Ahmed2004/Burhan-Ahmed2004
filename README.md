@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm an AI Engineer focused on turning ideas into **production-ready applications** by combining Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI, Computer Vision, and full-stack engineering. I care more about building things that create real value than shipping experimental prototypes.
+I'm an AI Engineer focused on turning ideas into **production-ready applications** by combining Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI, Computer Vision, and full-stack engineering.
 
 ---
 
@@ -20,10 +20,11 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 |---|---|
 | 🎓 **[AI University Chatbot Assistant](https://github.com/Burhan-Ahmed2004/AI-University-Chatbot-Assisstant)** | Final Year Project — an AI-powered chatbot assistant for university-related queries. |
 | 💬 **[TW-Bot](https://github.com/Burhan-Ahmed2004/TW-Bot)** | Chatbot built on Llama 3.2:3B (via Ollama), served as a FastAPI microservice. |
+| 🤖 **[TWPCBoT](https://github.com/Burhan-Ahmed2004/TWPCBoT)** | Advanced conversational AI chatbot with natural language processing capabilities. |
 | ⛳ **[Golf Pose Detection](https://github.com/Burhan-Ahmed2004/golf-pose-detection)** | Computer vision project detecting and analyzing golf swing poses. |
 | 🩺 **[Medi-Reco](https://github.com/Burhan-Ahmed2004/Medi-Reco)** | Medicine and family health management app — medication inventory tracking, refill prediction, and reminders. *(TypeScript)* |
 | 💍 **[Misaq — Pre-Release Website](https://github.com/Burhan-Ahmed2004/Misaq-PreReleaseWebsite)** | Pre-launch website for a Sunnah-based halal Muslim marriage matching platform. |
-| 🎙️ **[Bani — Personal Assistant](https://github.com/Burhan-Ahmed2004/Bani-Personal-Online-Offline-Mobile-Assistant)** | Android assistant app running local AI models for voice commands, calls, and messaging — works online and offline. |
+| 🎙️ **[Bani — Personal Assistant](https://github.com/Burhan-Ahmed2004/Bani-Personal-Online-Offline-Mobile-Assistant)** | Android assistant app running local AI models for voice commands, calls, and more. |
 | 🏥 **[Clinic Management Cloud](https://github.com/Burhan-Ahmed2004/clinic-management-cloud)** | Cloud-based clinic management system (JavaScript). |
 | 🛒 **[ShopMasterPro](https://github.com/Burhan-Ahmed2004/ShopMasterPro)** | Full-featured POS / shop management system (TypeScript). |
 | 📰 **[Brainwave Matrix — Fake News Detection](https://github.com/Burhan-Ahmed2004/Brainwave_Matrix_Intern)** | Fake news classifier using Logistic Regression on a Kaggle real/fake news dataset. |
@@ -145,7 +146,7 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 
 <p align="left">
   <a href="https://www.linkedin.com/in/burhan-ahmed-340021258/">LinkedIn</a> ·
-  <a href="2ba30122004@gmail.com">Email</a>
+  <a href="mailto:2ba30122004@gmail.com">Email</a>
 </p>
 
 I'm always open to collaborating on AI products, open-source projects, and software that makes a meaningful impact.
