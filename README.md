@@ -99,6 +99,7 @@ With 30+ projects spanning AI/ML, mobile development, and enterprise systems, I'
 ### 🧰 Tech Stack
 
 **Artificial Intelligence & ML**
+
 ![ML](https://img.shields.io/badge/-Machine%20Learning-informational)
 ![DL](https://img.shields.io/badge/-Deep%20Learning-informational)
 ![GenAI](https://img.shields.io/badge/-Generative%20AI-informational)
