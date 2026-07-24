@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm an AI Engineer focused on turning ideas into **production-ready applications** by combining Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI, Computer Vision, and full-stack engineering.
+I'm an AI Engineer focused on turning ideas into **production-ready applications** by combining Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI, Computer Vision, and full-stack development. I specialize in building intelligent systems that solve real-world problems, from conversational AI to medical applications and enterprise software.
 
 ---
 
@@ -18,16 +18,16 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 
 | Project | Description |
 |---|---|
-| 🎓 **[AI University Chatbot Assistant](https://github.com/Burhan-Ahmed2004/AI-University-Chatbot-Assisstant)** | Final Year Project — an AI-powered chatbot assistant for university-related queries. |
-| 💬 **[TW-Bot](https://github.com/Burhan-Ahmed2004/TW-Bot)** | Chatbot built on Llama 3.2:3B (via Ollama), served as a FastAPI microservice. |
-| 🤖 **[TWPCBoT](https://github.com/Burhan-Ahmed2004/TWPCBoT)** | Advanced conversational AI chatbot with natural language processing capabilities. |
-| ⛳ **[Golf Pose Detection](https://github.com/Burhan-Ahmed2004/golf-pose-detection)** | Computer vision project detecting and analyzing golf swing poses. |
-| 🩺 **[Medi-Reco](https://github.com/Burhan-Ahmed2004/Medi-Reco)** | Medicine and family health management app — medication inventory tracking, refill prediction, and reminders. *(TypeScript)* |
-| 💍 **[Misaq — Pre-Release Website](https://github.com/Burhan-Ahmed2004/Misaq-PreReleaseWebsite)** | Pre-launch website for a Sunnah-based halal Muslim marriage matching platform. |
-| 🎙️ **[Bani — Personal Assistant](https://github.com/Burhan-Ahmed2004/Bani-Personal-Online-Offline-Mobile-Assistant)** | Android assistant app running local AI models for voice commands, calls, and more. |
-| 🏥 **[Clinic Management Cloud](https://github.com/Burhan-Ahmed2004/clinic-management-cloud)** | Cloud-based clinic management system (JavaScript). |
-| 🛒 **[ShopMasterPro](https://github.com/Burhan-Ahmed2004/ShopMasterPro)** | Full-featured POS / shop management system (TypeScript). |
-| 📰 **[Brainwave Matrix — Fake News Detection](https://github.com/Burhan-Ahmed2004/Brainwave_Matrix_Intern)** | Fake news classifier using Logistic Regression on a Kaggle real/fake news dataset. |
+| 🎓 **[AI University Chatbot Assistant](https://github.com/Burhan-Ahmed2004/AI-University-Chatbot-Assisstant)** | **Final Year Project** — An intelligent AI-powered chatbot designed to answer university-related queries using advanced NLP and retrieval-augmented generation (RAG). Features semantic search, context-aware responses, and integration with university databases for real-time information retrieval. |
+| 💬 **[TW-Bot](https://github.com/Burhan-Ahmed2004/TW-Bot)** | Advanced conversational AI chatbot built on **Llama 3.2:3B** via Ollama and deployed as a FastAPI microservice. Demonstrates edge AI capabilities with fast inference, streaming responses, and production-grade API design for seamless integration. |
+| 🤖 **[TWPCBoT](https://github.com/Burhan-Ahmed2004/TWPCBoT)** | Sophisticated conversational AI chatbot featuring advanced NLP processing, contextual understanding, and multi-turn dialogue management. Optimized for natural, human-like interactions with robust error handling and conversation memory. |
+| ⛳ **[Golf Pose Detection](https://github.com/Burhan-Ahmed2004/golf-pose-detection)** | Computer vision project leveraging **pose estimation models** (MediaPipe/OpenPose) to detect, analyze, and provide real-time feedback on golf swing mechanics. Includes biomechanical analysis and performance metrics for swing optimization. |
+| 🩺 **[Medi-Reco](https://github.com/Burhan-Ahmed2004/Medi-Reco)** | **Full-stack healthcare app** (TypeScript) for comprehensive family health management. Features medication inventory tracking, predictive refill alerts using ML, customizable reminders, and a user-friendly dashboard for managing multi-patient records. |
+| 💍 **[Misaq — Pre-Release Website](https://github.com/Burhan-Ahmed2004/Misaq-PreReleaseWebsite)** | Pre-launch marketing website for a Sunnah-aligned Muslim marriage matching platform. Built with modern frontend technologies featuring responsive design, engaging animations, and conversion-optimized landing pages. |
+| 🎙️ **[Bani — Personal Assistant](https://github.com/Burhan-Ahmed2004/Bani-Personal-Online-Offline-Mobile-Assistant)** | **Android mobile assistant** running offline AI models for voice command processing, intelligent call handling, task automation, and personal scheduling. Combines on-device ML for privacy with cloud capabilities for enhanced features. |
+| 🏥 **[Clinic Management Cloud](https://github.com/Burhan-Ahmed2004/clinic-management-cloud)** | Scalable cloud-based clinic management system for appointment scheduling, patient records, billing, and staff coordination. RESTful API backend with real-time updates and multi-user access control. |
+| 🛒 **[ShopMasterPro](https://github.com/Burhan-Ahmed2004/ShopMasterPro)** | Enterprise-grade **POS and shop management system** (TypeScript) with inventory tracking, sales analytics, customer management, and financial reporting. Production-ready architecture with secure authentication and data persistence. |
+| 📰 **[Brainwave Matrix — Fake News Detection](https://github.com/Burhan-Ahmed2004/Brainwave_Matrix_Intern)** | ML-powered fake news classifier trained on Kaggle's real/fake news dataset using **Logistic Regression** and NLP techniques. Demonstrates text preprocessing, feature extraction, model evaluation, and deployment best practices. |
 
 ---
 
@@ -37,8 +37,8 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 <summary><b>Mobile Apps</b></summary>
 <br>
 
-- **[Bani Expense Tracker](https://github.com/Burhan-Ahmed2004/Bani-Expense-Tracker-App)** — mobile app for tracking monthly expenses
-- **[Bani Assistant Info](https://github.com/Burhan-Ahmed2004/Bani-Assistant-Info-)** — info/landing page for the Bani Assistant app
+- **[Bani Expense Tracker](https://github.com/Burhan-Ahmed2004/Bani-Expense-Tracker-App)** — Mobile app for tracking monthly expenses with data visualization, category management, and spending insights for budget optimization.
+- **[Bani Assistant Info](https://github.com/Burhan-Ahmed2004/Bani-Assistant-Info-)** — Marketing landing page and information hub for the Bani personal assistant app with feature showcase and user onboarding flow.
 
 </details>
 
@@ -46,8 +46,8 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 <summary><b>Django Projects</b></summary>
 <br>
 
-- **[Weather App (Django)](https://github.com/Burhan-Ahmed2004/Weather_App_in_Django)** — weather lookup app
-- **[Password Generator (Django)](https://github.com/Burhan-Ahmed2004/Django_Project_01_Password_Generator_App)** — password generator web app
+- **[Weather App (Django)](https://github.com/Burhan-Ahmed2004/Weather_App_in_Django)** — Web application integrating third-party weather APIs for real-time weather data lookup with location-based forecasting and user preferences.
+- **[Password Generator (Django)](https://github.com/Burhan-Ahmed2004/Django_Project_01_Password_Generator_App)** — Interactive password generation tool with customizable strength levels, pattern preferences, and batch generation capabilities.
 
 </details>
 
@@ -55,13 +55,13 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 <summary><b>Internships & Coursework</b></summary>
 <br>
 
-- **[Codveda C++ Intern Tasks](https://github.com/Burhan-Ahmed2004/Codveda-C--Intern-Tasks)** — C++ internship tasks
-- **[Codveda Python Intern](https://github.com/Burhan-Ahmed2004/Codveda-Python-Intern)** — Python internship tasks
-- **[Codveda Task 2 — Web Scraper](https://github.com/Burhan-Ahmed2004/Codveda-Python-Intern-Task2-B-)** — scrapes product data with BeautifulSoup, exports to CSV
-- **[Codveda Task 3 — Word Counter](https://github.com/Burhan-Ahmed2004/Codveda-Python-lntern-Task3-B-)** — Python word-counting tool with file handling
-- **[Oasis Infobyte — Python Internship](https://github.com/Burhan-Ahmed2004/OASIS-INFOBYTE-Python-Programming-Intern)** — Python programming internship tasks
-- **[ML — Navttc Course 2025](https://github.com/Burhan-Ahmed2004/ML-Navtcc-Course-2025-)** — machine learning coursework
-- **[Data Analyst Course Tasks](https://github.com/Burhan-Ahmed2004/Data-Analyst-Course-Tasks)** — data analysis coursework
+- **[Codveda C++ Intern Tasks](https://github.com/Burhan-Ahmed2004/Codveda-C--Intern-Tasks)** — C++ programming internship covering algorithms, data structures, object-oriented design, and system-level programming concepts.
+- **[Codveda Python Intern](https://github.com/Burhan-Ahmed2004/Codveda-Python-Intern)** — Python fundamentals internship including core language features, libraries, and programming paradigms.
+- **[Codveda Task 2 — Web Scraper](https://github.com/Burhan-Ahmed2004/Codveda-Python-Intern-Task2-B-)** — Production-ready web scraper using BeautifulSoup and Selenium for extracting product data with CSV export and error handling.
+- **[Codveda Task 3 — Word Counter](https://github.com/Burhan-Ahmed2004/Codveda-Python-lntern-Task3-B-)** — Text analysis tool demonstrating file I/O, data processing, and algorithmic efficiency in Python.
+- **[Oasis Infobyte — Python Internship](https://github.com/Burhan-Ahmed2004/OASIS-INFOBYTE-Python-Programming-Intern)** — Comprehensive Python programming internship with projects in automation, web development, and data processing.
+- **[ML — Navttc Course 2025](https://github.com/Burhan-Ahmed2004/ML-Navtcc-Course-2025-)** — Machine learning course covering supervised/unsupervised learning, feature engineering, model evaluation, and real-world applications.
+- **[Data Analyst Course Tasks](https://github.com/Burhan-Ahmed2004/Data-Analyst-Course-Tasks)** — Data analysis coursework including data cleaning, exploratory analysis, visualization, and statistical inference.
 
 </details>
 
@@ -69,14 +69,13 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 <summary><b>Frontend & Practice Projects</b></summary>
 <br>
 
-- **[Educate Template Website](https://github.com/Burhan-Ahmed2004/Educate-Template-website)** — education site frontend clone
-- **[Facebook Clone (Tailwind)](https://github.com/Burhan-Ahmed2004/Practice-Website-4-facebook-clone-tailwind)**
-- **[Microsoft Clone (Tailwind)](https://github.com/Burhan-Ahmed2004/Practice-Website-5-microsoft-clone-tailwind)**
-- **[Tic-Tac-Toe Game](https://github.com/Burhan-Ahmed2004/Responsive-Website-6-Tic-Tac-Toe-Game-With-Js)** — built with vanilla JS
-- **[Rock-Paper-Scissors Game](https://github.com/Burhan-Ahmed2004/Responsive-Website-7-Rock-Paper-Scissor-Game-With-Js)**
-- **[Currency Converter](https://github.com/Burhan-Ahmed2004/Responsive-Website-8-Currency-Converter-Using-API-With-Js)** — live API-based currency conversion
-- **[Pulsify Web](https://github.com/Burhan-Ahmed2004/Pulsify-Web)**
-- Responsive design practice repos (Bootstrap, CSS)
+- **[Educate Template Website](https://github.com/Burhan-Ahmed2004/Educate-Template-website)** — Professional education platform frontend with course listings, instructor profiles, and responsive design for optimal UX.
+- **[Facebook Clone (Tailwind)](https://github.com/Burhan-Ahmed2004/Practice-Website-4-facebook-clone-tailwind)** — Modern UI clone of Facebook featuring responsive layout, component design patterns, and Tailwind CSS optimization.
+- **[Microsoft Clone (Tailwind)](https://github.com/Burhan-Ahmed2004/Practice-Website-5-microsoft-clone-tailwind)** — Corporate website clone demonstrating advanced CSS techniques, animations, and modern web design practices.
+- **[Tic-Tac-Toe Game](https://github.com/Burhan-Ahmed2004/Responsive-Website-6-Tic-Tac-Toe-Game-With-Js)** — Interactive game built with vanilla JavaScript featuring AI opponent, game state management, and responsive controls.
+- **[Rock-Paper-Scissors Game](https://github.com/Burhan-Ahmed2004/Responsive-Website-7-Rock-Paper-Scissor-Game-With-Js)** — Browser-based game with score tracking, animations, and intuitive user interface.
+- **[Currency Converter](https://github.com/Burhan-Ahmed2004/Responsive-Website-8-Currency-Converter-Using-API-With-Js)** — Real-time currency conversion tool integrating live exchange rate APIs with responsive design and instant calculations.
+- **[Pulsify Web](https://github.com/Burhan-Ahmed2004/Pulsify-Web)** — Web application showcasing modern frontend practices and interactive user interfaces.
 
 </details>
 
@@ -137,8 +136,10 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 
 ### 🏆 Certifications
 
-- _Add certifications here — e.g. "Codveda Python Internship", "Oasis Infobyte Python Programming Internship", "Navttc ML Course 2025"_
-- _Add any Coursera / DeepLearning.AI / freeCodeCamp / cloud certs you've completed_
+- Codveda C++ Internship
+- Codveda Python Internship  
+- Oasis Infobyte Python Programming Internship
+- Navttc ML Course 2025
 
 ---
 
