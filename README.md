@@ -145,15 +145,7 @@ I'm an AI Engineer focused on turning ideas into **production-ready applications
 
 <p align="left">
   <a href="https://www.linkedin.com/in/burhan-ahmed-340021258/">LinkedIn</a> ·
-  <a href="mailto:youremail@example.com">Email</a>
+  <a href="2ba30122004@gmail.com">Email</a>
 </p>
 
 I'm always open to collaborating on AI products, open-source projects, and software that makes a meaningful impact.
-
-<!--
-HOW TO USE THIS FILE:
-1. You already have a repo named exactly your username (Burhan-Ahmed2004) — that's the special profile repo.
-2. Add/replace this file as README.md at its root.
-3. GitHub will automatically display it on your profile page.
-4. Replace the placeholder email and add real certifications.
--->
