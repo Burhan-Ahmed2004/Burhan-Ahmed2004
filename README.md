@@ -138,6 +138,11 @@ With 30+ projects spanning AI/ML, mobile development, and enterprise systems, I'
 
 ### 🏆 Licenses & Certifications
 
+**Microsoft Certified: Azure AI Fundamentals**
+- Issued: Feb 2026
+- Credential ID: 6C96179D9DFB61BD
+- Comprehensive understanding of Azure AI services, machine learning concepts, and cloud-based AI solutions.
+
 **Machine Learning Specialization — Stanford University & DeepLearning.AI**
 - Credential ID: 0KD5V9WZR5H8
 - Successfully completed the Machine Learning Specialization covering supervised and unsupervised learning, neural networks, decision trees, recommender systems, reinforcement learning, and practical ML model development using Python.
