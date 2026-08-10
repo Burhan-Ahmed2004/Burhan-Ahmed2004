@@ -37,7 +37,6 @@ With 30+ projects spanning AI/ML, mobile development, and enterprise systems, I'
 | 🏫 **[AISS School Management System](https://github.com/Burhan-Ahmed2004/AISS-School-Management-System)** | Comprehensive school management system with student, teacher, attendance, and grading modules (JavaScript). |
 | 🎓 **[AI University Chatbot Assistant](https://github.com/Burhan-Ahmed2004/AI-University-Chatbot-Assisstant)** | **Final Year Project** — An intelligent AI-powered chatbot designed to provid[...]
 | 💬 **[TW-Bot](https://github.com/Burhan-Ahmed2004/TW-Bot)** | Advanced conversational AI chatbot built on **Llama 3.2:3B** via Ollama and deployed as a FastAPI microservice. Demonstrates edge [...]
-
 | ⛳ **[Golf Pose Detection](https://github.com/Burhan-Ahmed2004/golf-pose-detection)** | Computer vision project leveraging pose estimation models (MediaPipe/OpenPose) to detect, analyze, and pr[...]
 | 🩺 **[Medi-Reco](https://github.com/Burhan-Ahmed2004/Medi-Reco)** | **Full-stack healthcare application** (TypeScript) for comprehensive family health management. Features medication inventory[...]
 | 💍 **[Misaq — Pre-Release Website](https://github.com/Burhan-Ahmed2004/Misaq-PreReleaseWebsite)** | Pre-launch marketing website for a Sunnah-aligned Muslim marriage matching platform. Built[...]
